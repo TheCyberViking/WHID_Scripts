@@ -1,0 +1,6 @@
+REM: This will open the default web browser with the given website 
+DefaultDelay:1
+Press:131+114
+PrintLine:CMD
+CustomDelay: 2000
+PrintLine:start http://img15.deviantart.net/26eb/i/2005/165/5/a/the_internet_by_decision.jpg
